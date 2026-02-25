@@ -15,7 +15,7 @@ I used Spring Boot, JPA and MySQL to build this.
 
 1. Create a database in MySQL:
 
-CREATE DATABASE weatherdb;
+CREATE DATABASE weatherrdb;
 
 2. Update your MySQL username and password in:
 
